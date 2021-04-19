@@ -1,0 +1,297 @@
+.google-countainer {
+	width: 700px;
+	height: 550px;
+	margin: 0 auto;
+	
+	 
+}
+.google-calkulator {
+	width: 500px;
+	height: 520px;
+	margin: 0 auto;
+	border: 5px solid blue;
+	border-radius: 10px;
+	background-color: rgb(193, 230, 247);
+
+}
+.google-calkulator a:nth-child(1) {
+	margin: 20px;
+	margin-left: 40px;
+	margin-top: 10px;
+	text-align: left;
+	text-decoration: none;
+	color: blue;
+	font-size: 15px;
+	
+}
+.google-calkulator a:nth-child(2) {
+	text-decoration: none;
+	margin-top: 10px;
+	margin-left: 140px;
+	color: blue;
+	text-align: right;
+	font-size: 20px;
+}
+.google-input {
+	border: 3px solid rgb(107, 97, 97);
+	border-radius: 10px;
+	width: 420px;
+	height: 70px;
+	margin: 0 auto;
+	
+	background-color: white;
+}
+.input {
+	border: none;
+	border-bottom: 2px solid silver;
+	font-size: 45px;
+	width: 400px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 10px;
+	text-align: right;
+	padding: 5px;
+	padding-right: 0px;
+}
+.google-calkulator .paragraf {
+	border:none;
+	background-color: rgb(193, 230, 247);
+	margin: 10px;
+	padding: 0px;
+	height: 15px;
+	padding-top: 10px;
+	font-size: 20px;
+	color: rgb(97, 104, 107);
+	margin-left: 40px;
+}
+.paragraf:hover {
+	color: red;
+}
+
+.block-1 {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 420px;
+	margin: 0px auto;
+	
+	height: 70px;
+}
+.btn-1 {
+	border-radius: 15%;
+	text-align: center;
+	height: 65px;
+	width: 65px;
+	font-size: 25px;
+	background-color: silver;
+	color: white;	
+}
+.btn-1:hover {
+	color:rgb(245, 185, 225)
+}
+
+.block-2 {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	
+	width: 420px;
+	margin: 0px auto;
+	height: 70px;
+	margin-top: 0px;
+}
+.btn-2 {
+	text-align: center;
+	height: 65px;
+	width: 65px;
+	font-size: 25px;
+	border-radius: 15%;
+}
+.btn-2:nth-child(1) {
+	background-color: silver;
+	color: white;
+}
+.btn-2 {
+	background-color: rgb(252, 238, 238);
+	color: blue;
+}
+.btn-2:hover {
+	color: red;
+
+}
+.btn-2:nth-child(5) {
+	background-color: rgb(71, 71, 71);
+	color: white;
+}
+.btn-2:nth-child(6) {
+	background-color: silver;
+	color: white;
+}
+.btn-2:nth-child(5):hover {
+	color:rgb(245, 185, 225);
+}
+.btn-2:nth-child(6):hover {
+	color:rgb(245, 185, 225);
+}
+
+
+
+.block-3 {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 420px;
+	margin: 0px auto;
+	height: 70px;
+	margin-top: 0px;
+}
+.btn-3 {
+	text-align: center;
+	height: 65px;
+	width: 65px;
+	font-size: 25px;
+	background-color: rgb(252, 238, 238);
+	color: blue;
+	border-radius: 15%;
+}
+.btn-3:nth-child(1) {
+	background-color: silver;
+	color: white;
+}
+
+.btn-3:hover {
+	color: red;
+
+}
+.btn-3:nth-child(5) {
+	background-color: rgb(71, 71, 71);
+	color: white;
+}
+.btn-3:nth-child(6) {
+	background-color: silver;
+	color: white;
+}
+.btn-3:nth-child(5):hover {
+	color:rgb(245, 185, 225);
+}
+.btn-3:nth-child(6):hover {
+	color:rgb(245, 185, 225);
+}
+
+
+.block-4 {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 420px;
+	margin: 0px auto;
+	height: 70px;
+	margin-top: 0px;
+}
+.btn-4 {
+	text-align: center;
+	height: 65px;
+	width: 65px;
+	font-size: 25px;
+	background-color: rgb(252, 238, 238);
+	color: blue;
+	border-radius: 15%;
+}
+.btn-4:nth-child(1) {
+	background-color: red;
+	color: white;
+}
+.btn-4:nth-child(1):hover {
+	color:rgb(245, 185, 225);
+}
+.btn-4:hover {
+	color: red;
+}
+.btn-plus {
+	font-size: 25px;
+	height: 130px;
+	width: 65px;
+	margin-top: 70px;
+	background-color: rgb(71, 71, 71);
+	color: white;
+	border-radius: 5%;
+}
+.btn-plus:hover {
+	color:rgb(245, 185, 225);
+}
+.btn-result {
+	border-radius: 5%;
+	font-size: 25px;
+	height: 130px;
+	width: 65px;
+	margin-top: 70px;
+	background-color: blue;
+	color: white;
+}
+.btn-result:hover {
+	color:rgb(245, 185, 225);
+}
+.block-5 {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 280px;
+	margin: 0px ;
+	margin-left: 40px;
+	height: 70px;
+	margin-top: 0px;
+}
+.btn-5 {
+	font-size: 25px;
+	text-align: center;
+	height: 65px;
+	width: 65px;
+	font-size: 25px;
+	background-color: rgb(252, 238, 238);
+	color: blue;
+	border-radius: 15%;
+}
+.btn-5:nth-child(1) {
+	background-color: red;
+	color: white;
+}
+.btn-5:nth-child(1):hover {
+	color:rgb(245, 185, 225);
+}
+.btn-5:hover {
+	color: red;
+}
+.text-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.text-content p {
+	font-size: 15px;
+	margin-top: 5px;
+	margin-left: 40px;
+	color: darkgray;
+}
+.text-content a:hover {
+	color: red;
+	
+}
+.setting {
+	border: none;
+	background-color: rgb(193, 230, 247);
+	color: darkgray;
+}
+.setting:hover {
+	color: red;
+}
+.text-content p:nth-child(2) {
+	margin-right: 40px;
+}
+.mobile-btn {
+	border: none;
+	background-color: rgb(193, 230, 247);
+	color: darkgray;
+}
+.mobile-btn:hover {
+	color: red;
+}
